@@ -1,6 +1,6 @@
 # Testing Javascript-obfusacator using cli (npm)
 
-## Dev
+## Dev (implementation)
 [José Luis Olivares](https://www.linkedin.com/in/jolivaress) 
 
 ## Installing javascript-obfuscator, run 
