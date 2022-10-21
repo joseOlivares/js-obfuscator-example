@@ -1,4 +1,4 @@
-# Testing Javascript-obfusacator lib 
+# Testing Javascript-obfusacator using cli (npm)
 
 ## Dev
 [José Luis Olivares](https://www.linkedin.com/in/jolivaress) 
