@@ -4,10 +4,10 @@
 José Luis Olivares
 
 ## Installing javascript-obfuscator, run 
- project folder/> npm install 
+ project folder/> `npm install`
 
 ## Testing ofuscator using a config.js file  (each file has a obfuscation configuration)
-javascript-obfuscator input-file.js  --output results/output.js --config config3.js
+`javascript-obfuscator input-file.js  --output results/output.js --config config3.`
 
 ## Fixing installation issues (javascript-obfuscator)
 If you have issues executing javascript-obfuscator commands, please try to run:
