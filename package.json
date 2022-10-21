@@ -1,0 +1,14 @@
+{
+  "name": "js-obfuscator-example",
+  "version": "1.0.0",
+  "description": "Testing Javascript Obfuscator using the cli",
+  "main": "config3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Luis Olivares",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.0.0"
+  }
+}
