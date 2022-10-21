@@ -1,4 +1,4 @@
-# Javascript obfusacator testing
+# Testing Javascript-obfusacator lib 
 
 ## Dev
 [José Luis Olivares](https://www.linkedin.com/in/jolivaress) 
