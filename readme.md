@@ -11,7 +11,7 @@ javascript-obfuscator input-file.js  --output results/output.js --config config3
 
 ## Fixing installation issues (javascript-obfuscator)
 If you have issues executing javascript-obfuscator commands, please try to run:
-    `code`  npm link javascript-obfuscator
+   ` npm link javascript-obfuscator `
 
 Then try again:
-    `code` javascript-obfuscator input-file.js  --output results/output.js --config config3.js
+   ` javascript-obfuscator input-file.js  --output results/output.js --config config3.js `
