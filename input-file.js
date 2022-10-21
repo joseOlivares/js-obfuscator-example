@@ -3,12 +3,13 @@ let urlProd="https://mysecretendpoint.com";
 let userName="Nombre de usuario ";
 let otroString='Prueba de librería';
 let secretKey="secret";
+
 function printEndpoint(url){
     //Comenatarios que incluyen alguna url 192.190.200.4 endpoint
-    let a=150;
-    let b=250;
-    let c=a+b;
+    let num1=150;
+    let num2=250;
+    let result=num1+num2;
 
-    return url+c;
+    return url+result;
 
 }
